@@ -1,0 +1,6 @@
+Korzystanie z gogli VR niesie z sobą wiele zagrożeń dotyczących 
+prywatności. Niektóre z dostępnych na rynku urządzeń śledzi ruchy 
+użytkownika. Przekazanie takich informacji w niepowołane ręce może 
+doprowadzić do śledzenia użytkownika. Innym zagrożeniem mogą być 
+ataki hakerskie dokonywane przez urządzenia VR, zwłaszcza te, które są 
+podłączone do Internetu. 
